@@ -1,0 +1,10 @@
+{
+	"name": "@scpu/app",
+	"version": "0.1.15",
+	"private": true,
+	"author": "Treycos",
+	"workspaces": [
+		"common",
+		"api"
+	]
+}
