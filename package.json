@@ -6,8 +6,5 @@
 	"workspaces": [
 		"common",
 		"api"
-	],
-	"devDependencies": {
-		"turbo": "^1.6.3"
-	}
+	]
 }
